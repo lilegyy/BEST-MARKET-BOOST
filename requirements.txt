@@ -1,0 +1,10 @@
+discord.py
+flask
+requests
+httpx
+tls-client
+discord-webhook
+colorama
+boosting  # Remplacez par la version ou source spécifique si nécessaire
+sellpass  # Remplacez par la version ou source spécifique si nécessaire
+auto      # Remplacez par la version ou source spécifique si nécessaire
