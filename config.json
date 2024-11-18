@@ -1,15 +1,15 @@
 {
-    "bot_token": "",
-    "bot_status": "",
-    "capmonster_key": "",
+    "bot_token": "MTMwNTUzNTYyODc1NDAyNjUwNg.GiiNY6.yqaKMosy42V_3QdTWELymCeavHnVJ2v58zGteo",
+    "bot_status": "Online",
+    "capmonster_key": "e346a0b64982f8aeb1e94a6d771ff1e2",
     "proxyless": true,
-    "field_name_invite": "",
+    "field_name_invite": "https://discord.gg/bestmarket",
     "change_server_nick": true,
-    "server_nick": "",
+    "server_nick": ".gg/bestmarket",
     "guildID": 0,
-    "ownerID": [],
-    "adminID": [],
-    "order_log_webhook": "",
-    "boost_log_webhook": "",
-    "boost_failed_log_webhook": ""
+    "ownerID": [712749274646970388],
+    "adminID": [1062706396266766419],
+    "order_log_webhook": "https://discord.com/api/webhooks/1305588512107663451/8laDsiiKblwaOXtEYrOya4-GLUBLAXO4g5wKvgm26hjTh9tUKpQp0jv7CjTCOvcTqIUZ",
+    "boost_log_webhook": "https://discord.com/api/webhooks/1305588512107663451/8laDsiiKblwaOXtEYrOya4-GLUBLAXO4g5wKvgm26hjTh9tUKpQp0jv7CjTCOvcTqIUZ",
+    "boost_failed_log_webhook": "https://discord.com/api/webhooks/1305588512107663451/8laDsiiKblwaOXtEYrOya4-GLUBLAXO4g5wKvgm26hjTh9tUKpQp0jv7CjTCOvcTqIUZ"
 }
